@@ -1,0 +1,27 @@
+{
+  "name": "emberapp",
+  "version": "1.0.0",
+  "description": "simple emberapp",
+  "main": "index.js",
+  "dependencies": {},
+   "devDependencies": {
+    "body-parser": "~1.0.1",
+    "express": "^4.0.0",
+    "mongodb": "^2.2.11",
+    "mongoose": "^3.6.20",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KTsolev/EmberApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KTsolev/EmberApp/issues"
+  },
+  "homepage": "https://github.com/KTsolev/EmberApp#readme"
+}
